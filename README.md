@@ -1,2 +1,2 @@
 # gitai
-a way for ollama and github to use ai
+a way for github to use ai
